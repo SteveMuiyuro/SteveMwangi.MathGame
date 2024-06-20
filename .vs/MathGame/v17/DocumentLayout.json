@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\steve\\source\\repos\\CodeReviews.Console.MathGame\\SteveMwangi.MathGame\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CA96254C-8B98-4CDA-A43E-BD5CDB428EBB}|MathGame\\MathGame.csproj|c:\\users\\steve\\source\\repos\\codereviews.console.mathgame\\stevemwangi.mathgame\\mathgame\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA96254C-8B98-4CDA-A43E-BD5CDB428EBB}|MathGame\\MathGame.csproj|solutionrelative:mathgame\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA96254C-8B98-4CDA-A43E-BD5CDB428EBB}|MathGame\\MathGame.csproj|c:\\users\\steve\\source\\repos\\codereviews.console.mathgame\\stevemwangi.mathgame\\mathgame\\selectionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA96254C-8B98-4CDA-A43E-BD5CDB428EBB}|MathGame\\MathGame.csproj|solutionrelative:mathgame\\selectionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA96254C-8B98-4CDA-A43E-BD5CDB428EBB}|MathGame\\MathGame.csproj|c:\\users\\steve\\source\\repos\\codereviews.console.mathgame\\stevemwangi.mathgame\\mathgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA96254C-8B98-4CDA-A43E-BD5CDB428EBB}|MathGame\\MathGame.csproj|solutionrelative:mathgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA96254C-8B98-4CDA-A43E-BD5CDB428EBB}|MathGame\\MathGame.csproj|c:\\users\\steve\\source\\repos\\codereviews.console.mathgame\\stevemwangi.mathgame\\mathgame\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA96254C-8B98-4CDA-A43E-BD5CDB428EBB}|MathGame\\MathGame.csproj|solutionrelative:mathgame\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,55 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HelperMethods.cs",
-              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\CodeReviews.Console.MathGame\\SteveMwangi.MathGame\\MathGame\\HelperMethods.cs",
-              "RelativeDocumentMoniker": "MathGame\\HelperMethods.cs",
-              "ToolTip": "C:\\Users\\steve\\source\\repos\\CodeReviews.Console.MathGame\\SteveMwangi.MathGame\\MathGame\\HelperMethods.cs",
-              "RelativeToolTip": "MathGame\\HelperMethods.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAUwBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T05:24:04.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SelectionMenu.cs",
-              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\CodeReviews.Console.MathGame\\SteveMwangi.MathGame\\MathGame\\SelectionMenu.cs",
-              "RelativeDocumentMoniker": "MathGame\\SelectionMenu.cs",
-              "ToolTip": "C:\\Users\\steve\\source\\repos\\CodeReviews.Console.MathGame\\SteveMwangi.MathGame\\MathGame\\SelectionMenu.cs",
-              "RelativeToolTip": "MathGame\\SelectionMenu.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAzwAYAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T05:00:24.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Operators.cs",
-              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\CodeReviews.Console.MathGame\\SteveMwangi.MathGame\\MathGame\\Operators.cs",
-              "RelativeDocumentMoniker": "MathGame\\Operators.cs",
-              "ToolTip": "C:\\Users\\steve\\source\\repos\\CodeReviews.Console.MathGame\\SteveMwangi.MathGame\\MathGame\\Operators.cs",
-              "RelativeToolTip": "MathGame\\Operators.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T04:55:13.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\CodeReviews.Console.MathGame\\SteveMwangi.MathGame\\MathGame\\Program.cs",
-              "RelativeDocumentMoniker": "MathGame\\Program.cs",
-              "ToolTip": "C:\\Users\\steve\\source\\repos\\CodeReviews.Console.MathGame\\SteveMwangi.MathGame\\MathGame\\Program.cs",
-              "RelativeToolTip": "MathGame\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T04:47:37.204Z"
             }
           ]
         }
