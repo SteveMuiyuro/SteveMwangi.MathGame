@@ -51,7 +51,7 @@ namespace MathGame
             }
             TimeSpan endTime = DateTime.Now.TimeOfDay;
             var timeTaken = endTime - startTime;
-            Console.WriteLine($"It took you {timeTaken} to complete");
+            Console.WriteLine($"This took you {timeTaken} to complete");
 
             HelperMethods.AddHistory(score, GameType.Addition, questions, timeTaken);
         }
@@ -89,7 +89,7 @@ namespace MathGame
             }
             TimeSpan endTime = DateTime.Now.TimeOfDay;
             var timeTaken = endTime - startTime;
-            Console.WriteLine($"It took you {timeTaken} to complete");
+            Console.WriteLine($"This took you {timeTaken} to complete");
 
             HelperMethods.AddHistory(score, GameType.Subtraction, questions, timeTaken);
         }
@@ -128,7 +128,7 @@ namespace MathGame
             }
             TimeSpan endTime = DateTime.Now.TimeOfDay;
             var timeTaken = endTime - startTime;
-            Console.WriteLine($"It took you {timeTaken} to complete");
+            Console.WriteLine($"This took you {timeTaken} to complete");
 
             HelperMethods.AddHistory(score, GameType.Multiplication, questions, timeTaken);
         }
@@ -164,7 +164,7 @@ namespace MathGame
             }
             TimeSpan endTime = DateTime.Now.TimeOfDay;
             var timeTaken = endTime - startTime;
-            Console.WriteLine($"It took you {timeTaken} to complete");
+            Console.WriteLine($"This took you {timeTaken} to complete");
 
             HelperMethods.AddHistory(score, GameType.Division, questions, timeTaken);
 
